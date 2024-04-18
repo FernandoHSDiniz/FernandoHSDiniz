@@ -1,16 +1,14 @@
-### Hi there 👋
+### Óla! Eu sou o Fernando Henrique 👋
 
-<!--
-**FernandoHSDiniz/FernandoHSDiniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Estudante entusiasta da tecnologia e investimentos, sempre em busca de novos desafios e conhecimentos. Atualmente estou Cursando Ensino Técnico Analise e Desenvolvimento de Sistema, e também estudando de forma autodidata e aprimorando minhas habilidades por meio de cursos EAD na Alura e ûdemy.
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-henrique97/)
+[![LinkedIn](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com)
+[![LinkedIn](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:fernando_henrique98@hotmail.com)
+
+<br>
+
+![FernandoHSDiniz GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoHSDiniz&show_icons=true&theme=dark)
+
