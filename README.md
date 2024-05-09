@@ -1,6 +1,6 @@
 ### Óla! Eu sou o Fernando Henrique 👋
 
-#### Estudante entusiasta da tecnologia e investimentos, sempre em busca de novos desafios e conhecimentos. Atualmente estou Cursando Ensino Técnico Analise e Desenvolvimento de Sistema, e também estudando de forma autodidata e aprimorando minhas habilidades por meio de cursos EAD na Alura e ûdemy.
+#### Estudante entusiasta da tecnologia e investimentos, sempre em busca de novos desafios e conhecimentos. Atualmente estou Cursando Ensino Técnico Analise e Desenvolvimento de Sistema, e também estudando de forma autodidata e aprimorando minhas habilidades por meio de cursos EAD na Alura (Java e JavaScript) e ûdemy (SAP ABAP e SAP MM).
 
 <br>
 
